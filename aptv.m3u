@@ -58,13 +58,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://tv.yuzi.fun:1000/logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://tv.yuzi.fun:1000/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-https://cntv.sbs/tv?auth=231005&id=cctv164k
-# https://cntv.sbs/tv?auth=231005&id=cctv16
-
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://tv.yuzi.fun:1000/logo/CCTV4K.png" group-title="央视",CCTV-4K 超高清
-https://cntv.sbs/tv?auth=231005&id=cctv4k
-
 
 #卫视
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://tv.yuzi.fun:1000/logo/山东卫视.png" group-title="卫视",山东卫视
